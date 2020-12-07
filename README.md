@@ -1,1 +1,9 @@
 # bootcamp-practice
+
+WORKING ENVIRONMENT (TREE)
+-COMMIT
+-PULL
+-PUSH
+-ADD
+-REMOTE
+-BRANCH
